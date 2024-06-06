@@ -1,5 +1,10 @@
 ## Hi there 👋
-<img style="center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunvantkai"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunvantkai"/>
+<style>
+  .centre {
+    text-align: center;
+  }
+</style>
 <!--
 **Dunvantkai/Dunvantkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
