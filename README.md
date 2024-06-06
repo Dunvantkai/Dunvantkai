@@ -1,5 +1,5 @@
 ## Hi there 👋
-  <img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunvantkai"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunvantkai"/>
 
 <!--
 **Dunvantkai/Dunvantkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
