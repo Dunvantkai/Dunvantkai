@@ -2,7 +2,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunvantkai"/>
 <style>
   .centre {
-    text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
   }
 </style>
 <!--
