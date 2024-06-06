@@ -1,11 +1,13 @@
 ## Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunvantkai"/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zerrissen&theme=material-palenight&count_private=true&show_icons=true&include_all_commits=true" alt="Zerrissen's github stats" /></a>
+<br/>
 
 <!--
 **Dunvantkai/Dunvantkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunvantkai"/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
