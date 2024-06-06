@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<a href="https://github.com/Dunvantkai/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunvantkai&theme=material-palenight&size_weight=0.9&count_weight=0.1&hide=html" /></a>
-<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunvantkai"/>
 
 <!--
 **Dunvantkai/Dunvantkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
