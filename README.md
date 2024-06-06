@@ -1,14 +1,6 @@
 ## Hi there 👋
-<div class="centre">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunvantkai"/>
-</div>
-<style>
-  .centre {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  }
-</style>
+
 <!--
 **Dunvantkai/Dunvantkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
