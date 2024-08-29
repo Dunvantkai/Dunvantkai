@@ -1,5 +1,4 @@
-## Hi there 👋
-## S'mae yno 👋
+## Hi there 👋 S'mae yno 👋
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunvantkai"/>
 
