@@ -1,7 +1,7 @@
 ## Hi there 👋 S'mae yno 👋
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunvantkai"/> <br><br>
-[Click Here for All Of My Other GitHub Repositories]([https://github.com/Dunvantkai?tab=repositories](https://github.com/Dunvantkai?tab=repositories&q=&type=&language=&sort=))
+[Click Here for All Of My Other GitHub Repositories](https://github.com/Dunvantkai?tab=repositories&q=&type=&language=&sort=)
 
 <!--
 **Dunvantkai/Dunvantkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
